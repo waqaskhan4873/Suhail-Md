@@ -29,7 +29,7 @@ module.exports = {
   author: process.env.PACK_AUTHER ||'WAQAS😁',
   packname: process.env.PACK_NAME || "KHUMARYAN😈", // \t   𓅋 ₊₉₂⃗⃗₃₁᩺₈ͦ₄ͪ₄ᷧ₇ͥ₄ᷞ₁⃗₇₆ 𓃮 \n\nᴋɪss ʍᴇ...💋\n\nᴄʟօsᴇ ყσυɾ ᴇყᴇs...👁️🙈\n\nʍɪss ʍᴇ...♥️\n\n\n   -ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ᴛᴀӄᴇ 🚮 \n\n--- ρυвʟɪᴄ вσт нᴇʀᴇ --- 
   style: process.env.STYLE || '1',  // put '1' & "2" here to check bot styles
-  errorChat: process.env.ERROR_CHAT || '', // put 'chat' here to send error in chat ,where it accures
+  errorChat: process.env.ERROR_CHAT || 'BSDK BOT MASLA KR RAHA😒', // put 'chat' here to send error in chat ,where it accures
   read_status: process.env.AUTO_READ_STATUS || 'false',
   save_status: process.env.AUTO_SAVE_STATUS || 'false',
 
