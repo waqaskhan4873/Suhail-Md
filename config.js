@@ -55,7 +55,7 @@ module.exports = {
   // antiDelete: process.env.ANTIDELETE ||  'true' ,
   // antiCallMessage: process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is Suhail-Md a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Suhail-Md Chatbot\`\`\`" ,
   VERSION: process.env.VERSION || 'v.1.2.5',
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : 'SUHAIL',
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : 'WAQAS KHAN😈',
   menu: process.env.MENU || '', /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || 'private',
   KOYEB_API: process.env.KOYEB_API || '',
